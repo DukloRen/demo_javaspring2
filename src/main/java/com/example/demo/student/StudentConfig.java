@@ -24,7 +24,7 @@ public class StudentConfig {
             );
 
             Student alex = new Student(
-                    "Mariam",
+                    "Alex",
                     "alex@gmail.com",
                     LocalDate.of(2004, JANUARY, 5)
             );
